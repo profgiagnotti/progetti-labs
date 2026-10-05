@@ -30,8 +30,8 @@ progetti-labs/
 
 | Progetto | Modulo | Argomento | Livello |
 |---|---|---|---|
-| [IoT con Packet Tracer](./IoT.zip) | IoT con Packet Tracer | ⭐⭐ Intermedio |
-| [Ioe con Packet Tracer](./IoT_Real_HTTP.zip) | IoT con librerie HTTP di Packet Tracer | ⭐⭐⭐ Avanzato |
+| [IoT con Packet Tracer](./IoT-Packet-tracer.zip) | IoT con Packet Tracer | ⭐⭐ Intermedio |
+| [Ioe con Packet Tracer](./IoT-Packet-Tracer-HTTP-Real.zip) | IoT con librerie HTTP di Packet Tracer | ⭐⭐⭐ Avanzato |
 
 
 
