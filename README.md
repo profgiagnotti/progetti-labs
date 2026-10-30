@@ -29,7 +29,7 @@ progetti-labs/
 ## 📂 Progetti con Packet tracer
 
 | Progetto | Modulo | Argomento | Lezione | Livello |
-|---|---|---|---|
+|---|---|---|---|---|
 | [IoT con Packet Tracer](./IoT-Packet-tracer.zip) | IoT con Packet Tracer | [IoT PKT](https://profgiagnotti.altervista.org/iot-e-ioe-con-cisco-packet-tracer/) | ⭐⭐ Intermedio |
 | [Ioe con Packet Tracer](./IoT-Packet-Tracer-HTTP-Real.zip) | IoT con librerie HTTP di Packet Tracer | [IoT PKT HTTP](https://profgiagnotti.altervista.org/ioe-con-cisco-packet-tracer-e-http-real/) | ⭐⭐⭐ Avanzato |
 
