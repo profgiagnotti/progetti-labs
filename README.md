@@ -30,8 +30,8 @@ progetti-labs/
 
 | Progetto | Modulo | Argomento | Lezione | Livello |
 |---|---|---|---|---|
-| [IoT con Packet Tracer](./IoT-Packet-tracer.zip) | IoT con Packet Tracer | [IoT PKT](https://profgiagnotti.altervista.org/iot-e-ioe-con-cisco-packet-tracer/) | ⭐⭐ Intermedio |
-| [Ioe con Packet Tracer](./IoT-Packet-Tracer-HTTP-Real.zip) | IoT con librerie HTTP di Packet Tracer | [IoT PKT HTTP](https://profgiagnotti.altervista.org/ioe-con-cisco-packet-tracer-e-http-real/) | ⭐⭐⭐ Avanzato |
+| [IoT con Packet Tracer](./IoT-Packet-tracer.zip) | IoT con Packet Tracer | [IoT PKT](https://profgiagnotti.it/iot-e-ioe-con-cisco-packet-tracer/) | ⭐⭐ Intermedio |
+| [Ioe con Packet Tracer](./IoT-Packet-Tracer-HTTP-Real.zip) | IoT con librerie HTTP di Packet Tracer | [IoT PKT HTTP](https://profgiagnotti.it/ioe-con-cisco-packet-tracer-e-http-real/) | ⭐⭐⭐ Avanzato |
 
 
 
@@ -50,7 +50,7 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.it)
 - ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
 - 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
 - ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
